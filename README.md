@@ -3,16 +3,16 @@ A Statistical Model to predict the optimal Airbnb Listing price in given listing
 # Data Sources
 http://insideairbnb.com/get-the-data/
 # Technologies Used
-Scikit learn
-Pandas
-Numpy
-Matplotlib
-Seaborn
-Scipy
+Scikit learn,
+Pandas,
+Numpy,
+Matplotlib,
+Seaborn,
+Scipy,
 Regression Models
-  Linear Regression
-  Gradient Boosting Regression
-  Random Forest Classifier
+-->  Linear Regression,
+  Gradient Boosting Regression,
+  Random Forest Classifier,
   Ridge
 
 ########################################
